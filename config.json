@@ -1,12 +1,12 @@
 {
 	"site": {
-		"port": 8080,
+		"port": 3001,
 		"ip": "0.0.0.0"
 	},
 	"rates": {
 		"updateMojangStatus": 5000,
 		"mojangStatusTimeout": 3500,
-		"pingAll": 3000,
+		"pingAll": 30000,
 		"connectTimeout": 2500
 	},
 	"logFailedPings": true,
