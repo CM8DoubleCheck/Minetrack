@@ -1,22 +1,22 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "AnarchyPvP",
+		"ip": "pvp.anarchypvp.pw",
 		"type": "PC"
 	},
 	{
-		"name": "HiveMC",
-		"ip": "play.hivemc.com",
+		"name": "L2X9",
+		"ip": "l2x9.org",
 		"type": "PC"
 	},
 	{
-		"name": "Mineplex",
-		"ip": "us.mineplex.com",
+		"name": "Impurity",
+		"ip": "impurity.me",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "Lost Lands",
+		"ip": "lostlands.co",
 		"type": "PC"
 	}
 ]
